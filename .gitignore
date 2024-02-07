@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/01a File Formats Bonanza/PythonParsing/.vs/PythonParsing/FileContentIndex/3deed22c-ff8e-4314-8601-8dbf702d7642.vsidx
+/01a File Formats Bonanza/PythonParsing/.vs/PythonParsing/FileContentIndex
+/01a File Formats Bonanza/PythonParsing/.vs/PythonParsing/v17
+/01a File Formats Bonanza/c#Parsing/c#Parsing/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/01a File Formats Bonanza/c#Parsing/c#Parsing/obj/Release/net7.0/c#Parsing.AssemblyInfo.cs
+/01a File Formats Bonanza/c#Parsing/c#Parsing/obj/Release/net7.0/c#Parsing.AssemblyInfoInputs.cache
+/01a File Formats Bonanza/c#Parsing/c#Parsing/obj/Release/net7.0
+/01a File Formats Bonanza/c#Parsing/c#Parsing/obj/Debug/net7.0/refint
+/01a File Formats Bonanza/c#Parsing/c#Parsing/obj/Debug/net7.0
+/01a File Formats Bonanza/c#Parsing/c#Parsing/bin/Debug/net7.0
+/01a File Formats Bonanza/c#Parsing/c#Parsing/obj
+/.vs/System_integration_2024/FileContentIndex
+/.vs/System_integration_2024/v17/.wsuo
+/.vs/slnx.sqlite
