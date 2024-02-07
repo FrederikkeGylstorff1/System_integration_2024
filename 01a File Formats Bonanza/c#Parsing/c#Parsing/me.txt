@@ -1,0 +1,4 @@
+﻿
+Name: Frederikke
+Age: 23
+Hobbies: Training, Coding
