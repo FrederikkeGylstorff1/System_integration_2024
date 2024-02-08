@@ -1,0 +1,8 @@
+7
+84C:\Users\frede\source\repos\System_integration_2024\03_Modules\html_with_moduls\dist133518525896111043 1
+117C:\Users\frede\source\repos\System_integration_2024\03_Modules\html_with_moduls\dist\html_with_moduls.3464ddca.js.map133518525896091027 0
+90C:\Users\frede\source\repos\System_integration_2024\03_Modules\html_with_moduls\index.html133518519559754500 0
+95C:\Users\frede\source\repos\System_integration_2024\03_Modules\html_with_moduls\dist\index.html133518525895304863 0
+91C:\Users\frede\source\repos\System_integration_2024\03_Modules\html_with_moduls\myModule.js133518519804364672 0
+88C:\Users\frede\source\repos\System_integration_2024\03_Modules\html_with_moduls\index.js133518530519978954 0
+113C:\Users\frede\source\repos\System_integration_2024\03_Modules\html_with_moduls\dist\html_with_moduls.3464ddca.js133518525896041210 0
