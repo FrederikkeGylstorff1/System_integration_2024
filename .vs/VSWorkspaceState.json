@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01a File Formats Bonanza",
-    "\\01a File Formats Bonanza\\PythonParsing\\PythonParsing"
+    "\\03_Modules\\python_modules\\my_module",
+    "\\04_encoding_Decoding\\node",
+    "\\04_encoding_Decoding\\python"
   ],
-  "SelectedNode": "\\01a File Formats Bonanza",
+  "SelectedNode": "\\06_Servers",
   "PreviewInSolutionExplorer": false
 }
