@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_assignments", "01_assignments", "{60B49DE8-DBEE-4366-831A-33FB4A64184D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_DataParsingServer", "03_DataParsingServer", "{CBF31B64-6742-4E8B-978D-B3002E116CB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataParsingServer", "01_assignments\03_DataParsingServer\DataParsingServer\DataParsingServer.csproj", "{22271966-509D-4814-BB99-447C81743052}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "a01_FileFormatsBonanza", "a01_FileFormatsBonanza", "{FF99872B-4620-422D-A963-3528AE1194A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c#Parsing", "01_assignments\a01_FileFormatsBonanza\c#Parsing\c#Parsing.csproj", "{26EFB89A-3425-450E-938C-A69C766E4BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22271966-509D-4814-BB99-447C81743052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22271966-509D-4814-BB99-447C81743052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22271966-509D-4814-BB99-447C81743052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22271966-509D-4814-BB99-447C81743052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EFB89A-3425-450E-938C-A69C766E4BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EFB89A-3425-450E-938C-A69C766E4BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EFB89A-3425-450E-938C-A69C766E4BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EFB89A-3425-450E-938C-A69C766E4BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CBF31B64-6742-4E8B-978D-B3002E116CB8} = {60B49DE8-DBEE-4366-831A-33FB4A64184D}
+		{22271966-509D-4814-BB99-447C81743052} = {CBF31B64-6742-4E8B-978D-B3002E116CB8}
+		{FF99872B-4620-422D-A963-3528AE1194A9} = {60B49DE8-DBEE-4366-831A-33FB4A64184D}
+		{26EFB89A-3425-450E-938C-A69C766E4BF9} = {FF99872B-4620-422D-A963-3528AE1194A9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDBC7FF6-5D69-4664-ADCD-6A4163C05052}
+	EndGlobalSection
+EndGlobal
