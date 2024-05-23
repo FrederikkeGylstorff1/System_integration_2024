@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "python-multipart-froms"
+version = "0.1.0"
+description = ""
+authors = ["FrederikkeGylstorff1 <frederikke@sneugle.dk>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+uvicorn = "^0.29.0"
+fastapi = "^0.110.1"
+python-multipart = "^0.0.9"
+aiofiles = "^23.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
