@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <style>
+            h1 {
+                text-align: center;
+            }
+            
+            table, th, td {
+                border: 1px solid black;
+            }
+    
+            main {
+                min-height: calc(100vh - 40px);
+                margin: 0 4em 0 4em;
+            }
+    
+            table {
+                width: 100%;
+            }
+    
+            footer {
+                color: grey;
+                font-size: 0.8em;
+            }
+        </style>
+        <title>userservicedb - Docs</title>
+    </head>
+    <body>
+        <main>
+            <h1>userservicedb</h1>
+    
+            <div class="database-table">
+        <h2 class="database-table-name">addresses</h2>
+        <table class="database-table-body">
+            <tr>
+                <th>field</th><th>type</th>                 
+            </tr>
+    
+        </tr>
+        </thead>
+        <tbody>
+    
+            
+                <tr>
+                    <td>AddressID</td><td>int</td>
+                </tr>
+                
+                <tr>
+                    <td>Street</td><td>varchar(255)</td>
+                </tr>
+                
+                <tr>
+                    <td>City</td><td>varchar(255)</td>
+                </tr>
+                
+                <tr>
+                    <td>PostalCode</td><td>varchar(20)</td>
+                </tr>
+                
+                <tr>
+                    <td>Country</td><td>varchar(255)</td>
+                </tr>
+                
+    
+        </tbody>
+        </table>
+    
+        <h2 class="database-table-name">customers</h2>
+        <table class="database-table-body">
+            <tr>
+                <th>field</th><th>type</th>                 
+            </tr>
+    
+        </tr>
+        </thead>
+        <tbody>
+    
+            
+                <tr>
+                    <td>CustomerID</td><td>int</td>
+                </tr>
+                
+                <tr>
+                    <td>FirstName</td><td>varchar(255)</td>
+                </tr>
+                
+                <tr>
+                    <td>LastName</td><td>varchar(255)</td>
+                </tr>
+                
+                <tr>
+                    <td>Email</td><td>varchar(255)</td>
+                </tr>
+                
+                <tr>
+                    <td>Phone</td><td>varchar(20)</td>
+                </tr>
+                
+                <tr>
+                    <td>AddressID</td><td>int</td>
+                </tr>
+                
+                <tr>
+                    <td>UserID</td><td>int</td>
+                </tr>
+                
+    
+        </tbody>
+        </table>
+    </div>
+            </main> 
+            <br><br>
+            <footer>Powered by MRO</footer>
+        </body>
+        </html>
