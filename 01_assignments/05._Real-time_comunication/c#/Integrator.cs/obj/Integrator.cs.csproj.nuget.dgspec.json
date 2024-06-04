@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\integrator.cs\\Integrator.cs.csproj": {}
+    "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\Integrator.cs\\Integrator.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\integrator.cs\\Integrator.cs.csproj": {
+    "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\Integrator.cs\\Integrator.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\integrator.cs\\Integrator.cs.csproj",
+        "projectUniqueName": "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\Integrator.cs\\Integrator.cs.csproj",
         "projectName": "Integrator.cs",
-        "projectPath": "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\integrator.cs\\Integrator.cs.csproj",
+        "projectPath": "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\Integrator.cs\\Integrator.cs.csproj",
         "packagesPath": "C:\\Users\\frede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\integrator.cs\\obj\\",
+        "outputPath": "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\05._Real-time_comunication\\c#\\Integrator.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frede\\AppData\\Roaming\\NuGet\\NuGet.Config",

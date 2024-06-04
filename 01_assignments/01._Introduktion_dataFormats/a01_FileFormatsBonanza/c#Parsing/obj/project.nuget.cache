@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E2H8QKXDFyQ/COeSKd7jN/9q+L47zG47lK/dUG7b5h6vG2CQKtSXLih6YBLA2uJdfQuHRaNqJf9BnWCkWYbzog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frede\\source\\repos\\System_integration_2024\\01_assignments\\a01_FileFormatsBonanza\\c#Parsing\\c#Parsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\csvhelper\\31.0.1\\csvhelper.31.0.1.nupkg.sha512",
+    "C:\\Users\\frede\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\frede\\.nuget\\packages\\system.linq.async\\4.0.0\\system.linq.async.4.0.0.nupkg.sha512",
+    "C:\\Users\\frede\\.nuget\\packages\\yamldotnet\\15.1.2\\yamldotnet.15.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Integrator.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68c5420c29bd7fcf962f76b564ca3a98e6e1e391")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a353509b7779e24695e8573b3007fccbb3eeb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Integrator.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Integrator.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
